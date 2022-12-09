@@ -2,7 +2,7 @@
   "result": {
     "status_overall": {
       "updated": "Updated 2022-12-08",
-      "status": "version-abee5e356bde4475 **ALL EXPOITS PATCHED PLEASE WAIT UNTIL THEN**",
+      "status": "version-e3de6c198f2c469b **ALL EXPOITS REVERTED**",
       "status_code": 100
     },
     "status": [
